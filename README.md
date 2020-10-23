@@ -15,10 +15,10 @@ That's where you come in! Help them finish the trivia app so they can start hold
 Completing this trivia app will give you the ability to structure plan, implement, and test an API - skills essential for enabling your future applications to communicate with others. 
 
 ## Skills covered
-- Handling HTTP Requests
-- Routing and API Endpoints
-- API Documentation
-- API Testing
+- Handling HTTP requests
+- Routing and API endpoints
+- API documentation
+- API testing
 
 ## Tasks
 
