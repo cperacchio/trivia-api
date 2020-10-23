@@ -1,6 +1,6 @@
 # Full Stack API Final Project
 
-## Full Stack Trivia
+## Full stack trivia
 
 Udacity is invested in creating bonding experiences for its employees and students. A bunch of team members got the idea to hold trivia on a regular basis and created a  webpage to manage the trivia app and play the game, but their API experience is limited and still needs to be built out. 
 
@@ -13,6 +13,12 @@ That's where you come in! Help them finish the trivia app so they can start hold
 5) Play the quiz game, randomizing either all questions or within a specific category. 
 
 Completing this trivia app will give you the ability to structure plan, implement, and test an API - skills essential for enabling your future applications to communicate with others. 
+
+## Skills covered
+- Handling HTTP Requests
+- Routing and API Endpoints
+- API Documentation
+- API Testing
 
 ## Tasks
 
@@ -27,7 +33,7 @@ We recommend following the instructions in those files in order. This order will
 
 [Fork](https://help.github.com/en/articles/fork-a-repo) the [project repository]() and [Clone](https://help.github.com/en/articles/cloning-a-repository) your forked repository to your machine. Work on the project locally and make sure to push all your changes to the remote repository before submitting the link to your repository in the Classroom. 
 
-## About the Stack
+## About the stack
 
 We started the full stack application for you. It is desiged with some key functional areas:
 
